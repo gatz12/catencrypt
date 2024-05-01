@@ -12,4 +12,3 @@
  |     |   \ | |      |   \   |    |       |
  |____ |    \|  \____ |    \  |    |       |
 ```
-### catencrypt is a basic crypting app made in python
